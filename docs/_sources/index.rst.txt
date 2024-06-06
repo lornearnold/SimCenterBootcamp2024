@@ -1,0 +1,66 @@
+Welcome to the NHERI-SimCenter 2024 Programming Bootcamp
+========================================================
+
+Following the success of our online version of this workshop,
+this year's **offering will be solely online**.  Expect to collaborate with 
+students from across the globe and enjoy the oportunity to make new friends
+at unexpected places.
+
+**The format** of the course this year has changed. This year the workshop is a **one week** intensive
+course of online instruction. The course is split evenly into ***Python** and **C/C++**. The particpants
+will be asked to review material before the workshop. Each day the material presented in those videos will be
+gone over **briefly** before example progams will be developed from scratch.
+
+Every morning, office hours are held for one (1) hour before the actual meetings.
+
+.. note::
+   
+   It is **intense**. While instruction is limited to a few hours a day, expect to spend significant hours daily working and submitting assignments if you intend to get anything worthwhile from the courses.
+
+
+
+The outline of the  workshop is follows.
+
+2. Python Workshop
+
+   * **July 29-31, 2024, 2.5 days**
+
+   The fist part of the workshop is geared towards beginner and intermediate level material.
+   The part of the course will cover the basic concepts of python, as well as fundamentals of code design.
+   It will utilize Python notebooks to acheive this. The last part of the workshop will transition you to command-line
+   use of python, as you'll need on any high-performance computing (HPC) environment. 
+
+   
+1. C/C++/HPC Workshop 
+
+   * **July 31 - Aug 2, 2024, 2.5 days**
+
+   The second half of this bootcamp is all focused on HPC target environment
+   reviewing coding basiscs in C and C++, but quickly transitioning to the fundamentals of
+   parallel programming.  This is a highly intensive crash course which introduces attendees to
+   concepts of computing, and quickly goes through fundamentals of coding in C and C++ to build
+   applications that run in parallel. The particpants will be logging on to the TACC HPC resources,
+   developing C and C++ applications, compiling these programs and then unning them on some of the
+   fastest computers in the world.
+
+.. note::
+
+   Course material is available through 
+   the `NHERI-SimCenter/SimCenterBootcamp2024 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2024>`_
+   repository on https://github.com 
+
+   You will need your own GitHub account to participate in our exercises.
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   source/syllabus
+   source/git
+   source/emacs
+   source/cmake   
+   source/TACC
+   source/help
+   source/resources
+
+
