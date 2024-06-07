@@ -8,10 +8,10 @@ at unexpected places.
 
 **The format** of the course this year has changed. This year the workshop is a **one week** intensive
 course of online instruction. The course is split evenly into ***Python** and **C/C++**. The particpants
-will be asked to review material before the workshop. Each day the material presented in those videos will be
-gone over **briefly** before example progams will be developed from scratch.
+will be asked to review material before the workshop. Each day the material presented in those videos will 
+reviewed **briefly** before example progams are developed from scratch.
 
-Every morning, office hours are held for one (1) hour before the actual meetings.
+Every morning, office hours are held for one (1) hour before the days presentations begin..
 
 .. note::
    
