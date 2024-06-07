@@ -28,7 +28,7 @@ Fork the SimCenter Code Repository
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Go to `github <https.github.com>`_ and sign in or sign up.
-#. Go to the `SimCenterBootcamp2023 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2023>`_ repository.
+#. Go to the `SimCenterBootcamp2024 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2024>`_ repository.
 #. In the very top right corner, where it has fork and a number beside it, click the fork button. This will create a fork of the Bootcamp repo in your own account. 
 
 Install Git
@@ -38,7 +38,7 @@ Install git from the `git download page <https://git-scm.com/downloads>`_. Once 
 
 .. code-block:: python
    
-   git clone https://github.com/YOUR-GIT-LOGIN/SimCenterBootcamp2023.git
+   git clone https://github.com/YOUR-GIT-LOGIN/SimCenterBootcamp2024.git
 
 .. warning::
 
@@ -89,7 +89,7 @@ Once Python is installed, you need to extend it by installing a number of packag
 Test the Install of Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In powerwhell cd to the SimCenterBootcamp2023 folder and type the following.
+In powerwhell cd to the SimCenterBootcamp2024 folder and type the following.
 
 .. code-block:: python
 
@@ -169,7 +169,7 @@ Fork the SimCenter Code Repository
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Go to `github <https.github.com>`_ and sign in or sign up.
-#. Go to the `SimCenterBootcamp2023 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2023>`_ repository.
+#. Go to the `SimCenterBootcamp2024 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2024>`_ repository.
 #. In the very top right corner, where it has fork and a number beside it, click the fork button. This will create a fork of the Bootcamp repo in your own account. 
 
 Install Git
@@ -179,7 +179,7 @@ There are a number of ways to install the source code management system `**git**
 
 .. code-block:: python
    
-   git clone https://github.com/YOUR-GIT-LOGIN/SimCenterBootcamp2023.git
+   git clone https://github.com/YOUR-GIT-LOGIN/SimCenterBootcamp2024.git
 
 .. warning::
 
@@ -188,7 +188,7 @@ There are a number of ways to install the source code management system `**git**
 Install Python on a Mac
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-The Mac comes with Python pre-installed, which is currently the outdated version 2.7. As of January 1st, 2023 no new bug reports, fixes, or changes will be made to Python 2, and Python 2 is officially no longer supported. SimCenter tools require Python 3. We recommend installing Python 3.7 from `Python.org Mac Download <https://www.python.org/downloads/mac-osx>`_ using the 
+The Mac comes with Python pre-installed, which is currently the outdated version 2.7. As of January 1st, 2024 no new bug reports, fixes, or changes will be made to Python 2, and Python 2 is officially no longer supported. SimCenter tools require Python 3. We recommend installing Python 3.7 from `Python.org Mac Download <https://www.python.org/downloads/mac-osx>`_ using the 
 **macOS 64-bit installer**. The installer will place a python3 executable in your /usr/local/bin directory, whose location should be on your system PATH. Version 3.8 does not appear to do so anymore, see the note below. 
 
 .. note:: 
@@ -246,7 +246,7 @@ Once Python is installed, you need to extend it by installing a number of packag
 Test the Install of Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In a terminal cd to the SimCenterBootcamp2023 folder and type the following.
+In a terminal cd to the SimCenterBootcamp2024 folder and type the following.
 
 .. code-block:: python
 
@@ -292,7 +292,7 @@ The above video demonstrates the **17** instruction steps that follow you will n
 
 #. In your browser you need to sign up for `github <https://github.com>`_. If you have difficulties they have a `page devoted to signing up <https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/signing-up-for-a-new-github-account>`_
 
-#. After signing up and logging in, navigate in your browser to the SimCenterBottcamp2023 `git page <https://github.com/NHERI-SimCenter/SimCenterBootcamp2023>`_. At the website, click on the **Fork**, button at top right. This will create a fork of the repo under your own github username and take you to the main page for that repo.
+#. After signing up and logging in, navigate in your browser to the SimCenterBottcamp2024 `git page <https://github.com/NHERI-SimCenter/SimCenterBootcamp2024>`_. At the website, click on the **Fork**, button at top right. This will create a fork of the repo under your own github username and take you to the main page for that repo.
 
 #. Now under the **Code** pull down menu on this new page, copy the https address into your clipboard. 
 
@@ -308,19 +308,19 @@ The above video demonstrates the **17** instruction steps that follow you will n
 
    .. code::
       
-      git clone https://github.com/YOUR GIT LOGIN/SimCenterBootcamp2023.git
+      git clone https://github.com/YOUR GIT LOGIN/SimCenterBootcamp2024.git
 
-#. This last command has created a new folder in your current directory named **SimCenterBootcamp2023**. We now want you to **cd** (change directory) into that directory. This is done by you typing the following:
+#. This last command has created a new folder in your current directory named **SimCenterBootcamp2024**. We now want you to **cd** (change directory) into that directory. This is done by you typing the following:
 
    .. code::
 
-      cd SimCenterBootcamp2023
+      cd SimCenterBootcamp2024
 
-#. Now we want you to issue the following command, which will add a pointer, called upstream, to the master SimCenterBootcamp2023 repo that you forked:
+#. Now we want you to issue the following command, which will add a pointer, called upstream, to the master SimCenterBootcamp2024 repo that you forked:
 
    .. code::
      
-     git remote add upstream https://github.com/NHERI-SimCenter/SimCenterBootcamp2023.git
+     git remote add upstream https://github.com/NHERI-SimCenter/SimCenterBootcamp2024.git
 
 #. Now let us go back to your home folder. Here we will create a new folder named **hello** and get you to create your first **C** program in that folder.
 
