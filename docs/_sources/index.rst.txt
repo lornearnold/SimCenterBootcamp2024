@@ -9,7 +9,7 @@ at unexpected places.
 **The format** of the course this year has changed. This year the workshop is a **one week** intensive
 course of online instruction. The course is split evenly into ***Python** and **C/C++**. The particpants
 will be asked to review material before the workshop. Each day the material presented in those videos will 
-reviewed **briefly** before example progams are developed from scratch.
+be reviewed **briefly** before example progams are developed from scratch.
 
 Every morning, office hours are held for one (1) hour before the days presentations begin..
 
@@ -21,18 +21,18 @@ Every morning, office hours are held for one (1) hour before the days presentati
 
 The outline of the  workshop is follows.
 
-2. Python Workshop
+1. Python Workshop
 
    * **July 29-31, 2024, 2.5 days**
 
-   The fist part of the Python training is geared towards beginner and intermediate level material.
+   The first part of the Python training is geared towards beginner and intermediate level material.
    In it we will cover the basic concepts of python, as well as fundamentals of code design.
    It will utilize Python notebooks to acheive this. In the latter part of the workshop we will transition you
    to the command-line use of python. In it we will cover creating a modular python program, utilizing for example development
    environments and file editors, things you'll need working on any high-performance computing (HPC) environment. 
 
    
-1. C/C++/HPC Workshop 
+2. C/C++/HPC Workshop 
 
    * **July 31 - Aug 2, 2024, 2.5 days**
 

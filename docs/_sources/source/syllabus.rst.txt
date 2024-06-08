@@ -22,22 +22,19 @@ this year's **offering will be solely online**.
   through discussion sessions and social time.
 
 
-**The bootcamp is organized** as two weeks of daily self-study assignments, 
-followed by three (3) hours of online lectures and exercises via ZOOM,
+**The bootcamp is organized** as 5 full days of online training via zoom. Each day two sessions are provided. Each session begins with a brief overview
+of the video material the participants are encouraged to watch before the workdhop (or at least the night before that days session. Folliwng the overview, the presenters will then work partially through  the solution to the exercises, after which the partipants will try to complete.
 followed by homework assignments and some more self-study video sessions.
-Every morning, office hours are held for one (1) hour before
-the actual meetings.
+Every morning, office hours are held for one (1) hour before the actual meetings.
 
-These two weeks are offered as individual or as one combined workshop as follows.
+The two workshops are offered as individual or as one combined workshop as follows.
 
    The Python workshop is geared towards beginner and intermediate level material.
-   The first three days will cover and refresh basic concepts of python, 
-   as well as fundamentals of code design.
-   Thursday will transition you to command-line use of python, as you'll need on any 
-   high-performance computing (HPC) environment. 
-   The workship will conclude on Friday with a team coding challange that emphasizes on
-   collaborative coding and computing.
-
+   The first three sessions will cover and refresh basic concepts of python, 
+   as well as fundamentals of code design. The fourth session  will transition you to command-line use of python,
+   as you'll need on any high-performance computing (HPC) environment.
+   The C/C++ workshop also starts with the assumption you know no C/C++, but that you have some basic programming experience,
+   e.g. have completed the Python workshop. It ends writing parallel programs using threads and message passing on a HPC.
 
 	    
 Python - July 29-31, 2024, 2.5 days
