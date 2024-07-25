@@ -57,6 +57,8 @@ The outline of the  workshop is follows.
    :caption: Contents:
 
    source/syllabus
+   source/setupInstructions
+   source/lecture_videos   
    source/git
    source/emacs
    source/cmake   

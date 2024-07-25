@@ -104,40 +104,33 @@ Introduction to C/C++/HPC - July 31 - Aug 2, 2024, 2.5 days
   * C: Variable Types and Variable Names
   * C: Operations, Conditionals, and Loops
   * C: Functions
-  * Assign Homework #5
-
+  * Assign Homework C #1
+    
 
 * Session 2: 
   
   * C: Pointers Review
   * C: Memory Allocation
-  * C: File I/O
-  * C: User Defined Datatypes
-  * Assign Homework #6
 
-    
-* Session 3: 
+
+* Session 3:
+  
+  * C: User Defined Datatypes
+  * C: File I/O
+
+* Session 4:
 
   * Object Oriented Programming
   * C++
   * C++ Example
-  * Assign Homework #7
+  * Assign Homework C #2
 
-
-* Session 4:
+* Session 5:
 
   * Parallel Computers  
   * MessagePassing & MPI
+  * SharedMemory & Threads
     
-
-* Session 5 - Parallel Day 
-
-  * Shared Memory & OpenMP
-  * Assign Homework #8
-  
-..
-	  * `Building Graphic User Interfaces (GUI) using Qt5 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2023/blob/master/presentations/NHERI-SimCenter-GUI-Qt.pdf>`_
-   
 
   
 

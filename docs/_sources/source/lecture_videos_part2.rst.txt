@@ -2,7 +2,7 @@
 Programming in C
 ================
 
-Day 1: Introduction to C
+Session 1: Introduction to C
 ------------------------
 
 There are a number of short videos to be watched prior to attending Day 1. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/C-Day1.pdf>`_
@@ -59,8 +59,8 @@ As you develop programs, there are basic algorithms that you will use over and o
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xN5Z-KvfM0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-Day 2: C Continued
-------------------
+Session 2: Memory & Pointers
+----------------------------
 
 There are a number of short videos to be watched prior to attending Day 2. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/C-Day2.pdf>`_
 
@@ -84,15 +84,8 @@ Pointers most typically are used to point to the start of an array or the curren
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/w28FemBmWfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-C File I/O
-^^^^^^^^^^
-
-To save the results of some computation or to read in values, the programmer must open and close files and read and write the data to these files.
-
-.. raw:: html
-
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/kwoCCeDpKkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
+Session 3 - Data Structures & File I/O
+--------------------------------------
 
 C Struts, Data Structures and Abstraction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -105,8 +98,18 @@ The C Language provides some built in data types, i.e. integer, float, double, a
 	 
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/_ewhjB45tTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+C File I/O
+^^^^^^^^^^
 
-Day 3: Intrpduction to C++
+To save the results of some computation or to read in values, the programmer must open and close files and read and write the data to these files.
+
+.. raw:: html
+
+   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/kwoCCeDpKkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+
+   
+Session 4: Intrpduction to C++
 --------------------------
 
 There are a number of short videos to be watched prior to attending Day 3. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/C-Day3.pdf>`_
@@ -139,7 +142,7 @@ Now we look at the specific language features that enable OOP programming in C++
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/a7e3sa0K5T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-Day 4: Parallel Programming
+Session 5: Parallel Programming
 ---------------------------
 
 Parallel Computers and Parallel Programming
@@ -172,47 +175,3 @@ This video is a very bried introduction to programming with the **OpenMP**, a li
 
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/APzanKquS-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Day 5: Tapis
-------------
-
-Intoduction to Tapis
-^^^^^^^^^^^^^^^^^^^^
-
-There are a number of short videos to be watched prior to attending Day 3. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/Agave2.pdf>`_
-
-.. raw:: html
-	 
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vNFbzG4t1bI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-
-Tapis Systems
-^^^^^^^^^^^^^
-
-.. raw:: html
-	 
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/TddwsA5MY_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-
-Tapis Files
-^^^^^^^^^^^
-
-
-.. raw:: html
-	 
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/eh7Etvuvo7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-   
-
-Tapis Apps
-^^^^^^^^^^
-
-.. raw:: html
-	 
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/f2-Qg6sMsQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-Tapis Jobs
-^^^^^^^^^^
-
-.. raw:: html
-	 
-   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/HDo5QzwOjTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-   
