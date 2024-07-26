@@ -1,6 +1,6 @@
 
 Closing Remarks and Discussion
-========================
+===============================
 
 .. raw:: html
 

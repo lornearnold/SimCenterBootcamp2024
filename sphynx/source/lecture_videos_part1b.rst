@@ -1,10 +1,10 @@
 
 Python Applications
-===============
+====================
 
 
 Chapter 7: Machine learning (AI)
--------
+-------------------------------------------
 
 .. raw:: html
 
@@ -30,7 +30,7 @@ Chapter 7: Machine learning (AI)
 
 
 Chapter 10: Web scrabbing
--------
+-------------------------------------------
 
 * Wael Elhaddad on Web scrabbing (watch the first 30 minutes)
 

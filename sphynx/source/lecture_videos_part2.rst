@@ -1,9 +1,9 @@
 
 Programming in C
-================
+=================
 
 Session 1: Introduction to C
-------------------------
+-------------------------------------------
 
 There are a number of short videos to be watched prior to attending Day 1. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/C-Day1.pdf>`_
 
@@ -15,9 +15,8 @@ The first video provides information about just exactly what a computer is; basi
 
 .. raw:: html
 
- <p><iframe width="560" height="315" src="https://www.youtube.com/embed/QJp_x0-UmTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/QJp_x0-UmTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  
-
 
 Introduction to C and Compilation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,11 +27,11 @@ To create binary executable files that the operating system will run on the **CP
 
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WhGShGIbeAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+
 C Variable Types and Variable Names
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To make programming easier, programming languages provide programmers the ability to define and use **variables** in their programs. An example of a variable a programmer might create in a game application is foe example the users **current score**: this variable being set to 0 by the application when the user starts a game and is updated constantly as the user progresses through the game.
-
 
 .. raw:: html
 
@@ -109,8 +108,8 @@ To save the results of some computation or to read in values, the programmer mus
 
 
    
-Session 4: Intrpduction to C++
---------------------------
+Session 4: Introduction to C++
+-------------------------------------------
 
 There are a number of short videos to be watched prior to attending Day 3. A pdf of the presentation used in these videos is `available here <https://github.com/NHERI-SimCenter/SimCenterBootcamp2022/blob/master/presentations/C-Day3.pdf>`_
 
@@ -143,7 +142,7 @@ Now we look at the specific language features that enable OOP programming in C++
 
 
 Session 5: Parallel Programming
----------------------------
+-------------------------------------------
 
 Parallel Computers and Parallel Programming
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

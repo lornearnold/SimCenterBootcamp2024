@@ -68,18 +68,12 @@ Once Python is installed, you need to extend it by installing a number of packag
    pip install numpy
    pip install scipy
    pip install matplotlib
+   pip install plotly
    pip install pandas 
    pip install openpyxl 
    pip install xlrd 
    pip install xlwt 
    pip install xlsxwriter
-   pip install selenium 
-   pip install bs4 
-   pip install lxml 
-   pip install requests 
-   pip install geopandas 
-   pip install census 
-   pip install us
    pip install notebook
 
 .. note::
@@ -89,7 +83,7 @@ Once Python is installed, you need to extend it by installing a number of packag
 Test the Install of Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In powerwhell cd to the SimCenterBootcamp2024 folder and type the following.
+In PowerShell, `cd` to the `SimCenterBootcamp2024` folder and type the following.
 
 .. code-block:: python
 
@@ -102,30 +96,7 @@ This should open the browser running jupyter-notebook. Select any of the .ipynb 
 Known Installation Issues
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. **Failure to install fiona package**
-
-.. figure:: figures/installIssue1.png
-   :align: center
-   :figclass: align-center
-
-   Reported installation error message
-
-.. note::
-
-   proposed solution (incomplete)
-   --------
-
-   It appears that the gdal package is the source of the problem. We recommend downloading the
-   **gdal** and **fiona** packages closest to your system configuration from
-
-   * gdal: https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
-   * fiona: https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
-
-   Install those packages using
-
-   sudo pip install gdal*.whl fiona*.whl
-
-2. **Runtime error when importing numpy (or matplotlib)**
+1. **Runtime error when importing numpy (or matplotlib)**
 
    The following error was reported by several students who are running Windows 10 and a brand new
    installation of python::
@@ -208,18 +179,12 @@ Once Python is installed, you need to extend it by installing a number of packag
    pip3 install --user numpy
    pip3 install --user scipy
    pip3 install --user matplotlib
-   pip3 install --user pandas 
+   pip3 install --user plotly
+   pip3 install --user pandas
    pip3 install --user openpyxl 
    pip3 install --user xlrd 
    pip3 install --user xlwt 
    pip3 install --user xlsxwriter
-   pip3 install --user selenium 
-   pip3 install --user bs4 
-   pip3 install --user lxml 
-   pip3 install --user requests 
-   pip3 install --user geopandas 
-   pip3 install --user census 
-   pip3 install --user us
    pip3 install --user notebook
 
 .. note:: 

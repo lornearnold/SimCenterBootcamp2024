@@ -1,9 +1,9 @@
 
 General Topics
-==========
+===============
 
 Setup
------
+------
 
 * for Windows
 

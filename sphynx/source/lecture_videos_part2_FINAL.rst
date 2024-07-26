@@ -36,13 +36,13 @@ gtBufZO5IGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gy
 
 
 C Functions
-----------
+-------------------------------------------
 
    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/
 ua2KOBhvxDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Memory management: pointers. malloc, sizeof, free
-------------------------------------------------
+--------------------------------------------------
 
 .. raw:: html
 
@@ -50,7 +50,7 @@ Memory management: pointers. malloc, sizeof, free
 
 
 Parallel programming
----------
+-------------------------------------------
 
 * Parallel programming in C using MPI
 
@@ -81,7 +81,7 @@ Parallel programming
 
 
 Abstraction in C - Structures
-----------------------------
+-------------------------------------------
 
 .. raw:: html
 
@@ -91,7 +91,7 @@ Abstraction in C - Structures
 
 
 Programming in C++
-============
+===================
 
 Classes
 ---------
@@ -107,14 +107,14 @@ Classes
        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XotVCTZT-mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Designing complex programs
-----------
+-------------------------------------------
 
 .. raw:: html
 
        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/3-wBwsn7wpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Exercise: Vector class
--------------
+-------------------------------------------
 
 .. raw:: html
 
@@ -122,10 +122,10 @@ Exercise: Vector class
 
 
 Application Programming
-===========
+==========================
 
 GUI Programming with Qt5
---------------------
+----------------------------
 
 .. raw:: html
 
@@ -134,7 +134,7 @@ GUI Programming with Qt5
 
 
 SimCenter Tools
------------
+------------------
 
 .. raw:: html
 

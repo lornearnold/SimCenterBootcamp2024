@@ -1,9 +1,9 @@
 
 Python Quickstart Tutorial
-===============
+===========================
 
 Outline
-----
+--------
 
 .. raw:: html
 
@@ -11,7 +11,7 @@ Outline
 
 
 Chapter 1: Basic data types and operations
-----
+-------------------------------------------
 
 .. raw:: html
 
@@ -54,7 +54,7 @@ Chapter 1: Basic data types and operations
 
 
 Chapter 2: Matrix data types
-------
+-------------------------------------------
 
 .. raw:: html
 
@@ -72,7 +72,7 @@ Chapter 2: Matrix data types
 
 
 Chapter 3: Plotting
-------
+-------------------------------------------
 
 .. raw:: html
 
@@ -80,7 +80,7 @@ Chapter 3: Plotting
 
 
 Chapter 4: File IO
-------
+-------------------------------------------
 
 .. raw:: html
 
@@ -98,7 +98,7 @@ Chapter 4: File IO
 
 
 Chapter 5: Object oriented programming
-------
+-------------------------------------------
 
 .. raw:: html
 
@@ -121,7 +121,7 @@ Chapter 5: Object oriented programming
 
 
 Chapter 6: Modules and subprocess
-------
+-------------------------------------------
 
 
 
