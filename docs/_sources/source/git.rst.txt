@@ -51,7 +51,7 @@ Git
          .. code::       
 
                git fetch upstream       
-               git merge upstream/master -m "daily update"
+               git merge upstream/main -m "daily update"
                
 .. note::
 
@@ -119,7 +119,7 @@ There are three options for creating a repo.
                 git add .
                 git commit -m "First commit"
                 git remote add origin https://github.com/YOUR_USERNAME/REPO.git 
-                git push -u origin master
+                git push -u origin main
 
          .. note::
 
@@ -325,7 +325,7 @@ When working in a collaborative project, your interaction with git is as shown i
 
 .. note::
 
-#. To Synch your Fork with the original you need to fetch the branches and their respective commits from the upstream repository. Commits to original master branch will be stored in a local branch, upstream/master.
+#. To Synch your Fork with the original you need to fetch the branches and their respective commits from the upstream repository. Commits to original main branch will be stored in a local branch, upstream/main.
 
    .. code::
 
@@ -335,21 +335,21 @@ When working in a collaborative project, your interaction with git is as shown i
       > remote: Total YY (delta XX), reused XX (delta 9)
       > Unpacking objects: 100% (YY/YY), done.
       > From https://github.com/ORIGINAL_OWNER/REPO
-      >  * [new branch]      master     -> upstream/master
+      >  * [new branch]      main     -> upstream/main
 
 
-#. Switch to your own master branch, if you don't use branches you will be here so this is not necessary.
-
-   .. code::
-
-      git checkout master
-      > Switched to branch 'master'
-
-#. Now merge the changes between the two into your local master branch
+#. Switch to your own main branch, if you don't use branches you will be here so this is not necessary.
 
    .. code::
 
-      git merge upstream/master
+      git checkout main
+      > Switched to branch 'main'
+
+#. Now merge the changes between the two into your local main branch
+
+   .. code::
+
+      git merge upstream/main
       >    Updating wkflkqjflkfwlkfgq
       > Fast-forward
       >  X files changed, Y insertions(+), Z deletions(-)
@@ -394,6 +394,6 @@ Creating a Branch to work with Someonelse's Repo
 
    git remote add otherFork path
    git fetch otherFork
-   git branch newBranch other/master
+   git branch newBranch other/main
    git checkout newBranch
    
