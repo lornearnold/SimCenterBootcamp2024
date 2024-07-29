@@ -4,7 +4,7 @@
 #
 # author:    Peter Mackenzie-Helnwein
 # created:   pmh - 10/28/2020
-# modified:  pmh - 07/28/2024
+# modified: 
 #
 # **************************************************************************
 
@@ -65,20 +65,26 @@ class Individual(Human):
         return s
 
     def partner(self):
-        pass
+        return tuple(self.the_partner)
 
     def parents(self):
-        pass
+        return tuple(self.the_parents)
 
     def children(self):
-        pass
+        return tuple(self.the_children)
 
     def add_partner(self, partner):
-        pass
+        if partner not in self.the_partner:
+            self.the_partner.append(partner)
+            partner.add_partner(self)
 
     def add_child(self, child):
-        pass
+        if child not in self.the_children:
+            self.the_children.append(child)
+            child.add_parent(self)
 
     def add_parent(self, parent):
-        pass
+        if parent not in self.the_parents:
+            self.the_parents.append(parent)
+            parent.add_child(self)
 
