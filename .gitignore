@@ -283,10 +283,7 @@ presentations/Videos
 
 *.swp
 
-code/PetersCode/pi/pi-omp
-code/PetersCode/pi/pi
-code/PetersCode/pi/pi-loop
-
 presentations/Python Quickstart Tutorial.zip
 build
 *.out.dSYM
+__pycache__
