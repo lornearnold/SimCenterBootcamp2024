@@ -287,3 +287,4 @@ presentations/Python Quickstart Tutorial.zip
 build
 *.out.dSYM
 __pycache__
+code/jupyter/archive
