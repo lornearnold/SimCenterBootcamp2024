@@ -288,3 +288,4 @@ build
 *.out.dSYM
 __pycache__
 code/jupyter/archive
+*.ipynb_checkpoints
