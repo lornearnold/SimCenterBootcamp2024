@@ -1,5 +1,5 @@
-C: Assignments Day 4
-====================
+C: Assignments Session 5
+========================
 
 Problem 1: Parallelize **pi.c** using **MPI**
 ---------------------------------------------

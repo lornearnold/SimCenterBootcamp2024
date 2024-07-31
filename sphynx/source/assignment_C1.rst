@@ -1,5 +1,5 @@
-C: Assignments Day 1
-====================
+C: Session 1
+============
 
 Today we have three problems for you to tackle. 
 

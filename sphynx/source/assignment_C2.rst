@@ -1,8 +1,8 @@
-C: Assignments Day 2
-====================
+C: Assignments Session 2
+========================
 
 
-Today we have several problems for you to tackle. Parts should look and feel familiar from Day 1, though we will add more features as we go.
+Some more problems for you to tackle. Parts should look and feel familiar from first session, though we will add more features as we go.
 
 
 

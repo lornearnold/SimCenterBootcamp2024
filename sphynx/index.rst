@@ -60,7 +60,8 @@ The outline of the  workshop is follows.
 
    source/syllabus
    source/setupInstructions
-   source/lecture_videos   
+   source/lecture_videos
+   source/assignments      
    source/git
    source/emacs
    source/cmake   
