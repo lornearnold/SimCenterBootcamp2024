@@ -23,7 +23,22 @@ int main(int argc, char **argv) {
   float b = atof(argv[2]);
   float c = atof(argv[3]);
 
-  float x1 = 0, x2 = 0;
+  float x1 = 0, x2 = 0, im = 0;
+
+  float discriminant = b * b - 4 * a * c;
+
+  if (discriminant > 0) {
+    x1 = (-b + sqrt(discriminant)) / (2 * a);
+    x2 = (-b - sqrt(discriminant)) / (2 * a);
+    printf("%.8f, %.8f\n", x1, x2); 
+  } else if (discriminant == 0) {
+    x1 = -b / (2 * a);
+    printf("%.8f\n", x1);
+  } else {
+    x1 = -b / (2 * a);
+    im = sqrt(-discriminant) / (2 * a);
+    printf("%.8f + %.8fi,%.8f - %.8fi\n", x1, im, x1, im);
+  }
 
   printf("%.8f, %.8f\n", x1, x2);    
   
