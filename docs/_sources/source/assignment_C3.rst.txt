@@ -1,8 +1,8 @@
-C: Assignments Day 3
-====================
+C: Assignments Session 3
+========================
 
 
-Today we have three problems for you to tackle.
+More problems for you to tackle.
 
 Problem 1: Lets switch to C++ syntax
 ------------------------------------

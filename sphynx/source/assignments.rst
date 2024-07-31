@@ -30,10 +30,11 @@ Each assignment typically includes one or more of the following.
     assignment_C3
     assignment_C4
     # assignment_C4_solution
-    assignment_C5    
-    assignment_day1
-    assignment_day2
-    assignment_day3
-    assignment_day4
-    assignment_day5
+    # assignment_C5    
+
+    #assignment_day1
+    #assignment_day2
+    #assignment_day3
+    #ssignment_day4
+    #assignment_day5
 
