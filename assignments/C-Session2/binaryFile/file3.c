@@ -32,19 +32,25 @@ int main(int argc, char **argv) {
     vectorSize++;
 
     if (vectorSize == maxVectorSize) {
-      // some code needed here I think .. programming exercise
+      // some code needed here I think. programming exercise
     }
   }
   
   fclose(filePtr);
 
-  //
-  // write data to binary file
-  //
   
   FILE *filePtrB = fopen(argv[2],"wb");
+
+    // Write vector1 to binary file
+    fwrite(vector1, sizeof(double), vectorSize, filePtrB);
+
+    // Write vector2 to binary file
+    fwrite(vector2, sizeof(double), vectorSize, filePtrB);
   
-  // some missing code to write vector1, followed by vector 2
-  
-  fclose(filePtrB);  
+  fclose(filePtrB);
+    // Free allocated memory
+    free(vector1);
+    free(vector2);
+
+    return 0;
 }

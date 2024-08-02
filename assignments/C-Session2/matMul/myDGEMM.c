@@ -9,5 +9,15 @@ const char* dgemm_desc = "Naive, three-loop dgemm.";
  * NOTE: Fortran storage: C(i,j) = C[i + j*n]
  */
 void myDGEMM(int n, double* A, double* B, double* C) {
+
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j <n; j++){
+            double c = C[i + j*n];
+            for(int k = 0; k < n; k++){
+                c += A[i + k*n] * B[k+j*n];
+            }
+            C[i + j*n] = c;
+        }
+    }
   return; 
 }
